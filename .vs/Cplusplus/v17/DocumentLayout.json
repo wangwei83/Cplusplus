@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\19002\\Desktop\\Cplusplus_kaiyuan\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE7A033-00E3-411E-8621-ED532A5AFBA4}|Cplusplus.vcxproj|C:\\Users\\19002\\Desktop\\Cplusplus_kaiyuan\\\u4E09\u89D2\u5F62\u6574\u5217.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FE7A033-00E3-411E-8621-ED532A5AFBA4}|Cplusplus.vcxproj|solutionrelative:\u4E09\u89D2\u5F62\u6574\u5217.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u4E09\u89D2\u5F62\u6574\u5217.cpp",
+              "DocumentMoniker": "C:\\Users\\19002\\Desktop\\Cplusplus_kaiyuan\\\u4E09\u89D2\u5F62\u6574\u5217.cpp",
+              "RelativeDocumentMoniker": "\u4E09\u89D2\u5F62\u6574\u5217.cpp",
+              "ToolTip": "C:\\Users\\19002\\Desktop\\Cplusplus_kaiyuan\\\u4E09\u89D2\u5F62\u6574\u5217.cpp",
+              "RelativeToolTip": "\u4E09\u89D2\u5F62\u6574\u5217.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T13:31:32.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
