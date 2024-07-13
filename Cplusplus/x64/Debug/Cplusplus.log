@@ -1,2 +1,4 @@
-﻿  三角形整列.cpp
+﻿  三角形阵列2.cpp
+C:\Users\19002\Desktop\Cplusplus_kaiyuan\三角形阵列2.cpp(5,6): warning C4101: “array”: 未引用的局部变量
+C:\Users\19002\Desktop\Cplusplus_kaiyuan\三角形阵列2.cpp(4,11): warning C4101: “c”: 未引用的局部变量
   Cplusplus.vcxproj -> C:\Users\19002\Desktop\Cplusplus_kaiyuan\x64\Debug\Cplusplus.exe
